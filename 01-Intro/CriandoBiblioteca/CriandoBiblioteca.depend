@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1623007148 source:/home/ron/Documents/lc/01-Intro/CriandoBiblioteca/aritmetica.c
+	"aritmetica.h"
+
+1623007148 /home/ron/Documents/lc/01-Intro/CriandoBiblioteca/aritmetica.h
+
+1623007147 source:/home/ron/Documents/lc/01-Intro/CriandoBiblioteca/main.c
+	<stdio.h>
+	<stdlib.h>
+	"aritmetica.h"
+

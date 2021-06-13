@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623009223 source:/home/ron/Documents/lc/01-Intro/DataHora/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
