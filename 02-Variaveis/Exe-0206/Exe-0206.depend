@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624224817 source:/home/ron/Documents/lc/02-Variaveis/Exe-0206/main.c
+	<stdio.h>
+	<stdlib.h>
+

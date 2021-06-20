@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624057232 source:/home/ron/Documents/lc/02-Variaveis/2.8-LeituraDeDados2/main.c
+	<stdio.h>
+	<stdlib.h>
+
