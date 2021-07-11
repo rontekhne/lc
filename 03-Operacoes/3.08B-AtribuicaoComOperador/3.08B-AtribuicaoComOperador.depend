@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1625531796 source:c:\users\ron\documents\lc\03-operacoes\3.08b-atribuicaocomoperador\main.c
+	<stdio.h>
+	<stdlib.h>
+

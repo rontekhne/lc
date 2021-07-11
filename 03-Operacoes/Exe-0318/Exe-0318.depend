@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626022235 source:c:\users\ron\documents\lc\03-operacoes\exe-0318\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1625441153 source:c:\users\ron\documents\lc\03-operacoes\3.07-operadoresdeslocamentobitwise\main.c
+	<stdio.h>
+	<stdlib.h>
+
