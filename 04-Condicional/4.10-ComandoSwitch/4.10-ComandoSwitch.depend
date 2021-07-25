@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626646974 source:c:\users\ron\documents\lc\04-condicional\4.10-comandoswitch\main.c
+	<stdio.h>
+	<stdlib.h>
+

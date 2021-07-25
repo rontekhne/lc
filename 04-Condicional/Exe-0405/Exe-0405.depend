@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626913114 source:c:\users\ron\documents\lc\04-condicional\exe-0405\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

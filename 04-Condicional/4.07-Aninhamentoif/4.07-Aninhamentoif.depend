@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626306382 source:c:\users\ron\documents\lc\04-condicional\4.07-aninhamentoif\main.c
+	<stdio.h>
+	<stdlib.h>
+
