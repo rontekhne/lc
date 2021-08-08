@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628287465 source:c:\users\ron\documents\lc\05-repeticao\exe-0516\main.c
+	<stdio.h>
+	<stdlib.h>
+

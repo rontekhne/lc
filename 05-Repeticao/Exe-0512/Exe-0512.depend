@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1628121730 source:c:\users\ron\documents\lc\05-repeticao\exe-0512\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
